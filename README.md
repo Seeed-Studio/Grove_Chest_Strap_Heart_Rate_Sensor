@@ -1,7 +1,7 @@
 Grove - Chest Strap Heart Rate Sensor
 -------------------------------------
 
-This is an Arduino example for [Grove - Chest Strap Heart Rate Sensor]http://www.seeedstudio.com/depot/grove-chest-strap-heart-rate-sensor-p-1115.html?cPath=73)
+This is an Arduino example for [Grove - Chest Strap Heart Rate Sensor](http://www.seeedstudio.com/depot/grove-chest-strap-heart-rate-sensor-p-1115.html?cPath=73)
 
 [![Grove - Chest Strap Heart Rate Sensor](http://www.seeedstudio.com/depot/bmz_cache/4/47c1543ff065a774f0dcf34de2f8a4d6.image.114x85.jpg)](http://www.seeedstudio.com/depot/grove-chest-strap-heart-rate-sensor-p-1115.html?cPath=73)
 

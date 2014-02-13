@@ -26,4 +26,4 @@ global distributors and partners to push open hardware movement.<br>
 
 
 
-
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Grove_Chest_Strap_Heart_Rate_Sensor)](https://github.com/igrigorik/ga-beacon)
